@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="180" src="https://raw.githubusercontent.com/LeanderWernst/LeanderWernst/output/ascii.svg" style="border-radius: 50%;"  />
+<img align="left" height="180" src="https://raw.githubusercontent.com/LeanderWernst/LeanderWernst/refs/heads/main/assets/ascii.svg" style="border-radius: 50%;"  />
 
 ###
 
@@ -88,6 +88,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LeanderWernst/LeanderWernst/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LeanderWernst/LeanderWernst/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
