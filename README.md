@@ -1,16 +1,11 @@
+<div style="background: #0d1117; color: white;">
 <h2 align="left">Hi! I am Leander 👾</h2>
 
-###
-
 <img align="left" height="180" src="https://raw.githubusercontent.com/LeanderWernst/LeanderWernst/refs/heads/main/assets/ascii.svg" style="border-radius: 50%;"  />
-
-###
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeanderWernst&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <br clear="both">
 
@@ -84,10 +79,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/LeanderWernst/LeanderWernst/refs/heads/output/snake.svg" alt="Snake animation" />
 
-###
+</div>
